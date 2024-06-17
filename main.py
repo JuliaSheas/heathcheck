@@ -1,6 +1,5 @@
 import sqlite3
 import sys
-sys.path.append('c:\\users\\hp\\appdata\\local\\programs\\python\\python310\\lib\\site-packages')
 import schedule
 import telebot
 from telebot import types
